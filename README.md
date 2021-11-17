@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Wonderful car collection
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Wonderful car collection](https://assignment-12-4b0b9.web.app/).
 
 ## Available Scripts
 

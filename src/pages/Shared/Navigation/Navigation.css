@@ -1,0 +1,32 @@
+.logo-text1{
+color: #e52d27;
+font-size: 20px;
+font-weight: 700;
+}
+.logo-text2{
+color: #000000;
+font-size: 20px;
+font-weight: 700;
+margin-left: -3px;
+}
+.link{
+    margin-left: 5px;
+}
+
+.logs{
+    margin-top: -8px;
+}
+
+/* responsive  */
+
+@media only screen and (max-width: 600px) {
+    .navss {
+     display: block!important;
+    }
+  }
+  @media only screen and (max-width: 425px){
+	/*Small smartphones [325px -> 425px]*/
+    .navss {
+        display: block!important;
+       }
+}
